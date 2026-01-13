@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+   < title >уровни  иерархии</title>
+    <link type="text/css" rel="stylesheet" href=" style.css"/>
+    <meta charset="UTF-8">
+    <title>Заголовок страницы</title>
+</head>
+<body>
+  
+    Анализ домена: kristina19112025.github.io
+Уровень (от корня) | Часть домена
+-------------------|--------------
+                 0 | io (TLD (Top-Level Domain))
+                 1 | github (SLD (Second-Level Domain))
+                 2 | kristina19112025 (Поддомен 3-го уровня)
+</html>
