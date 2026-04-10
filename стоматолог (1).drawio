@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="97_fC6Vi02LbrOzecsDQ">
+    <mxGraphModel dx="2241" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZTaExohgT8317lCFJeKy-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="База данных " vertex="1">
+          <mxGeometry height="60" width="120" x="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Врач " vertex="1">
+          <mxGeometry height="60" width="120" x="-310" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Фио: Билец А.И" vertex="1">
+          <mxGeometry height="60" width="120" x="-190" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="дата рождения : 12.06.1996" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="стаж: 5 лет " vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Медицинская сестра " vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Фио: Юнкова А.С " vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Спец: операционная медсестра " vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="дата рождения : 31.07.2000" vertex="1">
+          <mxGeometry height="60" width="120" x="800" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="стаж : 3 года " vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Операция " vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="стоматолог: Билец А.И" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="медсестра :Юнкова А.С " vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="дата : 10.04.2026 " vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-17" edge="1" parent="1" source="ZTaExohgT8317lCFJeKy-1" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-18" edge="1" parent="1" source="ZTaExohgT8317lCFJeKy-1" style="endArrow=classic;html=1;rounded=0;entryX=0.592;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.675;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" target="ZTaExohgT8317lCFJeKy-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" target="ZTaExohgT8317lCFJeKy-6" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="60" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="спец: стоматолог " vertex="1">
+          <mxGeometry height="60" width="120" x="-70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTaExohgT8317lCFJeKy-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="удаление зуба мудрости " vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="525" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
